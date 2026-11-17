@@ -1,6 +1,6 @@
 cask "steerglass" do
-  version "0.4.0"
-  sha256 "4c4ed6be9eaad83b7e8979d2363d61c36cb4d3eb8ae3f21d08d01947d7111db4"
+  version "0.4.1"
+  sha256 "d9ffa1c2fb1fc2dae5e1bc374dbd26af4b868c551b97e58791352aeb6806025b"
 
   url "https://steerglass.com/releases/#{version}/steerglass_#{version}_universal.dmg"
   name "Steerglass"
